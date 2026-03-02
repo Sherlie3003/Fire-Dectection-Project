@@ -1,4 +1,6 @@
 # 🔥 Real-Time Fire Detection System
+![Fire Detection Screenshot 1](screenshot%20fire%20detection%201.png)
+![Fire Detection Screenshot 2](screenshot%20fire%20detection%202.png)
 
 
 ## 📌 Project Overview
