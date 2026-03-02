@@ -1,5 +1,6 @@
 # 🔥 Real-Time Fire Detection System
 
+
 ## 📌 Project Overview
 This project detects fire in real-time using Python and OpenCV.
 When fire is detected, the system automatically sends an email alert.
